@@ -2,6 +2,7 @@ import "./App.css";
 import TopBar from "./components/TopBar";
 import BottomBar from "./components/BottomBar";
 import HomeFilm from "./components/HomeFilm";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
 
       <BottomBar />
       <HomeFilm />
+      <Footer />
     </>
   );
 }
