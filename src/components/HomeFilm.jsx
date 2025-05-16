@@ -64,3 +64,5 @@ class HomeFilm extends Component {
 }
 
 export default HomeFilm;
+
+// MI DISPIACE MA HO PRESO D'ESEMPIO CODICI CERCATI IN QUA E IN LA SU INTERNET PER CERCARE DI FARE IL PIù POSSIBILE
